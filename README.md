@@ -7,7 +7,7 @@
 **About Me!**
 - 🌱 I’m currently exploring front-end technologies.
 - 💼 I’m pursuing a Bachelor's degree in Computer Science at Cracow University of Technology.
-- 💬 Ask me about anything,  I’d love to
+- 💬 Ask me about anything,  I’d love to answer!
 - 📫 Email me at [lechlukasz@o2.pl](mailto:lechlukasz@o2.pl)
   
 - ![Codewars](https://github.r2v.ch/codewars?user=kapelew&stroke=%23BB432C)
