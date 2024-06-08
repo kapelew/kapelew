@@ -5,7 +5,7 @@
 -->
 
 **About Me!**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently diving into **Front-End tecnhologies**
 - 💼 I’m pursuing a Bachelor's degree in Computer Science at Cracow University of Technology.
 - 📫 Email me at **[lechlukasz@o2.pl](mailto:lechlukasz@o2.pl)**
 
