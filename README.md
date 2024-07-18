@@ -7,6 +7,7 @@
 **About Me!**
 - 🌱 I’m currently diving into **Front-End tecnhologies**
 - 💼 I’m pursuing a Bachelor's degree in Computer Science at Cracow University of Technology.
+- 💻 Front-End Developer at Comarch S.A.
 - 📫 Email me at **[lechlukasz@o2.pl](mailto:lechlukasz@o2.pl)**
 
 <h3 align="left">Languages and Tools I use:</h3>
