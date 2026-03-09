@@ -6,7 +6,7 @@
 
 **About Me!**
 - 💼 I’m pursuing a Master's degree in Computer Science at Cracow University of Technology.
-- 💻 Front-End Developer at Comarch S.A.
+- 💻 Front-End Developer at CGI
 - 📫 Email me at **[lechlukasz@o2.pl](mailto:lechlukasz@o2.pl)**
 
 <h3 align="left">Languages and Tools I use:</h3>
